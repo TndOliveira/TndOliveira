@@ -19,7 +19,7 @@ I love working with data and am always looking for new challenges to improve my 
 <p style="display: flex; align-items: center;">
     <span style="margin-right: 5px;">•</span>
         <img width="18" height="18" alt="monitoramento Ultimatearm Flat Ícone" loading="lazy" width="256" height="256" decoding="async" data-nimg="1" class="" src="https://cdn-icons-png.flaticon.com/512/3703/3703300.png?ga=GA1.1.951359141.1694959859" style="color: transparent; margin-right: 10px;">
-    <span>I'm currently on the lookout for new opportunities to enhance my skills and gain more experience in the exciting field of data analytics</span>
+    <span>I'm currently on the lookout for new opportunities to enhance my skills and gain more experience</span>
 </p>
  
 <p style="display: flex; align-items: center;">
