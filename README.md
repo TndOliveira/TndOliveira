@@ -58,6 +58,8 @@ I love working with data and am always looking for new challenges to improve my 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="36" height="36" alt="Markdown"/></a>
     <a href="https://www.figma.com/ui-design-tool/" target="_blank" rel="noreferrer">     
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" height="36" alt="Figma"/></a>
+    <a href="https://chat.openai.com/" target="_blank" rel="noreferrer">     
+    <img src="https://cdn.worldvectorlogo.com/logos/chatgpt-4.svg" width="36" height="36" alt="ChatGPT"/></a>
   </div>
 </div>
 
@@ -72,5 +74,8 @@ I love working with data and am always looking for new challenges to improve my 
     </a>
     <a href="https://public.tableau.com/app/profile/tauan.oliveira">
       <img src="https://img.shields.io/badge/tableau-navy?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
+    </a>
+    <a href="mailto:tndsoliveira@outlook.com">
+      <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF" alt="Email Badge"/>
     </a>
 </div>
