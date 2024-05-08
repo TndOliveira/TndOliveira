@@ -1,32 +1,34 @@
 <div id="bio">
     <h2>Hi, I'm Tauan Oliveira <img width="40" height="40" alt="homem Generic Flat Ícone" loading="lazy" width="256" height="256" decoding="async" data-nimg="1" class="" src="https://cdn-icons-png.flaticon.com/128/6106/6106869.png?ga=GA1.1.951359141.1694959859&track=ais" style="color: transparent; margin-right: 10px;"></h2>
 
-I'm a Junior Data Analyst from Brazil with a passion for continuous learning and growth. 
-I love working with data and am always looking for new challenges to improve my skills. 
-  
-<p style="display: flex; align-items: center;"> 
+<h3>I'm a Junior Data Analyst from Brazil with a passion for continuous learning and growth. 
+I love working with data and am always looking for new challenges to improve my skills.</h3>
+
+<br>
+
+<h4 style="display: flex; align-items: center;"> 
     <span style="margin-right: 5px;">•</span>
         <img width="18" height="20" alt="homem Generic Flat Ícone" loading="lazy" width="256" height="256" decoding="async" data-nimg="1" class="" src="https://cdn-icons-png.flaticon.com/512/3264/3264773.png?ga=GA1.1.951359141.1694959859" style="color: transparent; margin-right: 10px;">
     <span>I'm a Data Analyst in training</span>
-</p>
+</h4>
 
-<p style="display: flex; align-items: center;"> 
+<h4 style="display: flex; align-items: center;"> 
     <span style="margin-right: 5px;">•</span>
         <img width="18" height="18" alt="livros Special Flat Ícone" loading="lazy" width="256" height="256" decoding="async" data-nimg="1" class="" src="https://cdn-icons-png.flaticon.com/512/4645/4645290.png?ga=GA1.1.951359141.1694959859" style="color: transparent; margin-right: 10px;">
     <span>I'm constantly learning and practicing my skills</span>
-</p>
+</h4>
 
-<p style="display: flex; align-items: center;">
+<h4 style="display: flex; align-items: center;">
     <span style="margin-right: 5px;">•</span>
         <img width="18" height="18" alt="monitoramento Ultimatearm Flat Ícone" loading="lazy" width="256" height="256" decoding="async" data-nimg="1" class="" src="https://cdn-icons-png.flaticon.com/512/3703/3703300.png?ga=GA1.1.951359141.1694959859" style="color: transparent; margin-right: 10px;">
     <span>I'm currently on the lookout for new opportunities to enhance my skills and gain more experience</span>
-</p>
+</h4>
  
-<p style="display: flex; align-items: center;">
+<h4 style="display: flex; align-items: center;">
   <span style="margin-right: 5px;">•</span>
     <img width="18" height="18" alt="alvo Generic Gradient Ícone" loading="lazy" width="256" height="256" decoding="async" data-nimg="1" class="" src="https://cdn-icons-png.flaticon.com/512/8775/8775726.png?ga=GA1.1.951359141.1694959859" style="color: transparent; margin-right: 10px;">
     <span>Focused on learning Data Analysis</span>
-</p>
+</h4>
 </div>
 
 
