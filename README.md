@@ -41,15 +41,15 @@ I love working with data and am always looking for new challenges to improve my 
     <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/r-lang.svg" width="36" height="36" alt="rlang"/></a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">  
-    <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" width="36" height="36" alt="MySQL"/></a>
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="54" height="36" alt="MySQL"/></a>
     <a href="https://public.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="36" height="36" alt="Tableau"/></a>
     <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" width="30" height="36" alt="PowerBI"/></a>
+    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/refs/heads/main/PNG/Power-BI.png" width="30" height="36" alt="PowerBI"/></a>
     <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" width="36" height="36" alt="Excel"/></a>
     <a href="https://www.google.com/intl/us-en/sheets/about/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/google-sheets-full-logo-1.svg" height="36" alt="GoogleSheets"/></a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/1200px-Google_Sheets_logo_%282014-2020%29.svg.png" height="36" alt="GoogleSheets"/></a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img width="34" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="36" height="36" alt="Git"/></a>
     <a href="https://github.com/" target="_blank" rel="noreferrer">
